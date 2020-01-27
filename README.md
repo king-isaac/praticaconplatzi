@@ -1,0 +1,2 @@
+# praticaconplatzi
+una pagina simple
